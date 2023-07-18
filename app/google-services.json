@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67823484388",
+    "project_id": "fir-authentication-e0f9e",
+    "storage_bucket": "fir-authentication-e0f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67823484388:android:d34255a08e7f3c52819bf1",
+        "android_client_info": {
+          "package_name": "com.casem.fontalibros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67823484388-ikg9to7nreq0o32acab1ntjtfehjn426.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwDI9lwNxKwq_58zymqbfN6-MAAFZ8E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67823484388-ikg9to7nreq0o32acab1ntjtfehjn426.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
